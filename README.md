@@ -1,12 +1,27 @@
+# Safety 
 
-  # EchoCrowd
-  
-EchoCrowd is a free no adds modern walkie-talkie web-app for instant group communication. Create parties, organize dynamic groups, and communicate seamlessly with push-to-talk voice and real-time text messaging. great for games and fun.
+If you are using this on the go, please check the surroundings (don't use your phone next to a road and so on...), and by using this, you are responsible if you get hurt. 
+
+
+# EchoCrowd
+
+
+EchoCrowd is a free, no-ads, modern walkie-talkie web app for instant group communication. Create parties, organise dynamic groups, and communicate seamlessly with push-to-talk voices and real-time text messaging. Great for games and fun.
+
 This is a code bundle for EchoCrowd. The original project is available at https://www.figma.com/design/V5z1oTVcdSUT5IPU5FHJoX/EchoCrowd.
 
-  ## Running the code
+
+# Running the code
+
 
   Run `npm i` to install the dependencies.
 
   Run `npm run dev` to start the development server.
-  
+
+
+# Important Notice
+
+This isn't copyright (that I know of), and you can do what you like with the code.
+
+## Think I am using something copyrighted or have concerns?
+Please email ernie.catnach@gmail.com. 
