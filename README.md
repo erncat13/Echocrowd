@@ -8,7 +8,7 @@ If you are using this on the go, please check the surroundings (don't use your p
 
 EchoCrowd is a free, no-ads, modern walkie-talkie web app for instant group communication. Create parties, organise dynamic groups, and communicate seamlessly with push-to-talk voices and real-time text messaging. Great for games and fun.
 
-This is a code bundle for EchoCrowd. The original project is available at https://www.figma.com/design/V5z1oTVcdSUT5IPU5FHJoX/EchoCrowd.
+This is a code bundle for EchoCrowd. The original project is available at https://echocrowd.figma.site.
 
 
 # Running the code
