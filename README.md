@@ -23,5 +23,8 @@ This is a code bundle for EchoCrowd. The original project is available at https:
 
 This isn't copyright (that I know of), and you can do what you like with the code.
 
-## Think I am using something copyrighted or have concerns?
+### Think I am using something copyrighted or have concerns?
 Please email ernie.catnach@gmail.com. 
+
+# More info 
+https://sites.google.com/view/vibetalkie?usp=sharing
