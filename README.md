@@ -2,6 +2,10 @@
 
 If you are using this on the go, please check the surroundings (don't use your phone next to a road and so on...), and by using this, you are responsible if you get hurt. 
 
+# important
+
+-(this is not promotion, I or anyone else gets no money or profit from this)-
+
 
 # EchoCrowd
 
